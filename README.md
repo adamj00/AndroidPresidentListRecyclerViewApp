@@ -1,0 +1,2 @@
+# AndroidPresidentListRecyclerViewApp
+Simple Android app implementing showing, sorting and editing a list of US presidents. Created using Android Studio and Java with Glide. Shows the usage of Recycler View , global variables, Image View, comparators and more. Based on the YT tutorial by Shad Sluiter: https://www.youtube.com/watch?v=FFCpjZkqfb0&amp;list=PLhPyEFL5u-i1jAc79cJ2j8pDZFEyvpoH_&amp;index=10&amp;ab_channel=shadsluiter
